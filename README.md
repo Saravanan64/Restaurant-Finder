@@ -16,4 +16,6 @@ Features
     • A popup will contain, Name, Photo, Address.
 
 Screenshots
-![ScreenShot](https://raw.github.com/Saravanan64/Restaurant-Finder/master/Screenshots/1.jpg)
+![Screen1](https://raw.github.com/Saravanan64/Restaurant-Finder/master/Screenshots/1.png)
+![Screen2](https://raw.github.com/Saravanan64/Restaurant-Finder/master/Screenshots/2.png)
+![Screen3](https://raw.github.com/Saravanan64/Restaurant-Finder/master/Screenshots/3.png)
