@@ -13,7 +13,11 @@ Features
     • It will Find nearby restaurants within 10KMs radius  (Only 10 res restaurants )
     • It will List all the restaurants on Red Marker
     • An Information popup available for each restaurants click
-    • A popup will contain, Name, Photo, Address.
+    • The popup will contain the following information about restaurant
+        ◦ Name
+        ◦ Address
+        ◦ Photo (if available)
+        ◦ Restaurant Status (Opened or Closed)
 
 Screenshots
 
